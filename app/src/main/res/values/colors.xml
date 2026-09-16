@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bloom_primary">#A0616A</color>
+    <color name="bloom_primary_dark">#8B4F57</color>
+    <color name="bloom_background">#FFF8F6</color>
+    <color name="bloom_surface">#FFFFFF</color>
+    <color name="bloom_on_surface">#1A1A1A</color>
+    <color name="bloom_secondary">#D4A19A</color>
+    <color name="bloom_accent">#C17B73</color>
+    <color name="bloom_light_pink">#F5E6E0</color>
+    <color name="bloom_cream">#FFF5F0</color>
+    <color name="bloom_text_dark">#2D2D2D</color>
+    <color name="bloom_text_light">#8A8A8A</color>
+    <color name="bloom_gold">#C9A96E</color>
+    <color name="bloom_petal_dark">#8B4513</color>
+    <color name="bloom_petal_medium">#A0616A</color>
+    <color name="bloom_petal_light">#C8847A</color>
+    <color name="bloom_center">#C9A96E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
